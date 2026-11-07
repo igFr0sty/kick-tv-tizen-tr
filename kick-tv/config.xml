@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://corekill.cz/kicktv" version="2.3.0" viewmodes="maximized">
-  <tizen:application id="CrKckTV001.KickTV" package="CrKckTV001" required_version="4.0"/>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://github.com/igFr0sty/kick-tv-tizen-tr" version="2.4.0" viewmodes="maximized">
+  <tizen:application id="KckTvTr001.KickTVTR" package="KckTvTr001" required_version="4.0"/>
   <content src="index.html"/>
   <icon src="kick-icon-117.png"/>
   <feature name="http://tizen.org/feature/screen.size.all"/>
@@ -15,9 +15,8 @@
   <access origin="https://tizen.kick.com" subdomains="true"/>
   <access origin="https://7tv.io" subdomains="true"/>
   <access origin="https://cdn.7tv.app" subdomains="true"/>
-  <access origin="https://kicktv.corekill.cz" subdomains="true"/>
   <access origin="*" subdomains="true"/>
   <tizen:allow-navigation>https://tizen.kick.com/*</tizen:allow-navigation>
-  <name>Kick TV</name>
-  <description>Comfortable Kick viewing for Samsung TV.</description>
+  <name>Kick TV TR</name>
+  <description>Unofficial Kick client for Samsung TV with a Following screen and Turkish support.</description>
 </widget>

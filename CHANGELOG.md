@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.4.0 — Kick TV TR (fork)
+
+- Added a Following screen with live channels sorted by viewers, optional Kick account sync, a Turkish interface and a Turkish browse filter.
+- Removed sign-in, the usage counter and diagnostics that depend on the original author's server.
+- Uses a separate app ID: `KckTvTr001.KickTVTR`.
+
 ## 2.3.0 — procházení, jazykový filtr a Kick účet
 
 - Přibylo procházení živých streamů a kategorií; u živých kanálů i streamů v kategorii lze přepínat jazyk. Volba se uloží v televizi. Díky @janrydzewski za inspiraci pro procházení.

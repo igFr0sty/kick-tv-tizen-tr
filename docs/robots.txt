@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://corekill.github.io/kick-tv-tizen/sitemap.xml
