@@ -27,7 +27,7 @@ Playback, quality selection, search, live chat and 7TV emotes come from the orig
 1. Open **Apps** on the TV, press **123**, and enter `12345`.
 2. Turn on **Developer Mode** and set **Host PC IP** to your computer's local IP address.
 3. Restart the TV by holding the power button until the Samsung logo appears.
-4. Download `KickTV.wgt` from [Releases](../../releases/latest).
+4. Download `KickTV.wgt` from [Releases](https://github.com/igFr0sty/kick-tv-tizen-tr/releases/latest).
 5. In [Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung), choose **Custom WGT File**, select the file, select your TV, and press **Download & Install**.
 
 ## Connect your Kick account (optional)

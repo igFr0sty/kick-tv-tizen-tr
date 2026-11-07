@@ -27,7 +27,7 @@ Oynatma, kalite seçimi, arama, canlı sohbet ve 7TV emojileri orijinal projeden
 1. TV'de **Uygulamalar**'ı aç, **123** tuşuna bas ve `12345` gir.
 2. **Geliştirici Modu**'nu aç, **Host PC IP** alanına bilgisayarının yerel IP adresini yaz.
 3. Samsung logosu çıkana kadar güç tuşuna basılı tutarak TV'yi yeniden başlat.
-4. [Sürümler](../../releases/latest) sayfasından `KickTV.wgt` dosyasını indir.
+4. [Sürümler](https://github.com/igFr0sty/kick-tv-tizen-tr/releases/latest) sayfasından `KickTV.wgt` dosyasını indir.
 5. [Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung)'da **Custom WGT File**'ı seç, dosyayı ve TV'ni seç, **Download & Install**'a bas.
 
 ## Kick hesabını bağlama (isteğe bağlı)
